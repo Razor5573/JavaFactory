@@ -1,0 +1,12 @@
+CarStorageSize=400
+EngineStorageSize=400
+AccessoryStorageSize=400
+BodyStorageSize=400
+Workers=2
+Dealers=2
+SupplierEngineSpeed=75
+SupplierBodySpeed=50
+SupplierAccessorySpeed=25
+DealerSpeed=150
+WorkerSpeed=100
+LogSale=false
